@@ -1,1 +1,1 @@
-from notebook_video_writer.video_writer import VideoWriter
+from .video_writer import VideoWriter
