@@ -8,7 +8,7 @@ readme_path = pathlib.Path("README.md")
 setup(
     name='notebook-video-writer',
     packages = find_packages(),
-    version='0.0.3',
+    version='0.0.4',
     description="Create videos from numpy arrays in a jupyter notebook",
     long_description=readme_path.read_text(),
     long_description_content_type="text/markdown",
