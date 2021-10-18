@@ -9,7 +9,7 @@ Create videos from numpy arrays in a jupyter notebook
 `pip install notebook-video-writer`  
 
 ### Dependencies  
-  - Must have ffmpeg installed (`apt install ffmpeg` or `brew install ffmpeg`)  
+  - Must have ffmpeg installed  
 
 ### Usage  
 ```python
