@@ -1,5 +1,6 @@
 # Video from numpy array in Jupyter Notebook
 [![PyPI version](https://badge.fury.io/py/notebook-video-writer.svg)](https://badge.fury.io/py/notebook-video-writer)   
+  
 Create videos from numpy arrays in a jupyter notebook  
 
 [Original source](https://colab.research.google.com/github/znah/notebooks/blob/master/external_colab_snippets.ipynb  
