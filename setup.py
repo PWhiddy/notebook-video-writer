@@ -4,7 +4,6 @@ import pathlib
 from setuptools import setup, find_packages
 
 readme_path = pathlib.Path("README.md")
-requirements_path = pathlib.Path("requirements.txt")
 
 setup(
     name='notebook-video-writer',
@@ -27,6 +26,6 @@ setup(
         "Topic :: Utilities",
     ],
     keywords=['video', 'notebook', 'jupyter', 'numpy', 'interactive'],
-    install_requires=requirements_path.read_text().splitlines(),
+    install_requires=['numpy', 'moviepy'],
     python_requires=">=3.5",
 )
