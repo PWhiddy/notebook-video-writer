@@ -26,8 +26,9 @@ with VideoWriter(fps=40) as vw:
         frame = np.random.rand(256,256,3)
         vw.add(frame)
 
-```  
+```    
 This will immediately display the video inline below the cell:  
+  
 ![screenshot](imgs/screenshot.png)   
   
 An mp4 file is also saved to the current directory. Default name is `_autoplay.mp4`, but can be set with `name` keyword arg.
