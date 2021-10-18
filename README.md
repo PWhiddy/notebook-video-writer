@@ -1,18 +1,17 @@
 # notebook-video-writer
 Create videos from numpy arrays in a jupyter notebook  
 
-VideoWriter from Alexander Mordvintsev  
-https://colab.research.google.com/github/znah/notebooks/blob/master/external_colab_snippets.ipynb  
+[Original source](https://colab.research.google.com/github/znah/notebooks/blob/master/external_colab_snippets.ipynb  
+) from [Alexander Mordvintsev](https://github.com/znah)
 
-Packaged by Peter Whidden  
-
-Install:  
+### Install    
+  
 `pip install notebook-video-writer`  
 
-Dependencies:  
+### Dependencies  
   - Must have ffmpeg installed (`apt install ffmpeg` or `brew install ffmpeg`)  
 
-Usage in notebook:  
+### Usage  
 ```python
 
 import numpy as np
