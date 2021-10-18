@@ -3,8 +3,7 @@
   
 Create videos from numpy arrays in a jupyter notebook  
 
-[Original source](https://colab.research.google.com/github/znah/notebooks/blob/master/external_colab_snippets.ipynb  
-) from [Alexander Mordvintsev](https://github.com/znah)
+Packaged version of [Alexander Mordvintsev's Colab Snippets](https://github.com/znah/notebooks/blob/master/external_colab_snippets.ipynb)
 
 ### Install    
   
